@@ -9,12 +9,17 @@ Please cite the article if you find this useful. The bib entry is copied below
 ```
 @article{Asaduzzaman:2023wtd,
     author = "Asaduzzaman, Muhammad and Jha, Raghav G. and Sambasivam, Bharath",
-    title = "{A model of quantum gravity on a noisy quantum computer}",
+    title = "{Sachdev-Ye-Kitaev model on a noisy quantum computer}",
     eprint = "2311.17991",
     archivePrefix = "arXiv",
     primaryClass = "quant-ph",
-    month = "11",
-    year = "2023"
+    reportNumber = "JLAB-THY-23-3980",
+    doi = "10.1103/PhysRevD.109.105002",
+    journal = "Phys. Rev. D",
+    volume = "109",
+    number = "10",
+    pages = "105002",
+    year = "2024"
 }
 ```
 
