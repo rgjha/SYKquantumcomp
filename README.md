@@ -1,4 +1,4 @@
-# A model of quantum gravity on a noisy quantum computer
+# Sachdev-Ye-Kitaev model on a noisy quantum computer
 
 In this repository you can find the code used to produce some plots in https://arxiv.org/abs/2311.17991.
 The notebook for N=6 can be run on IBM devices by reading the QASM files for time evolution. 
